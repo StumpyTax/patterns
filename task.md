@@ -23,3 +23,12 @@
 Этот класс реализует паттерн SFM т.к:
 
 1. Создает экземляр класса через статический метод.
+
+# Задание 9.Bridge
+
+Реализован в [Bridge](https://github.com/StumpyTax/patterns/blob/main/main/src/main/java/com/stax/main/bridge/Desk.java)
+
+Этот класс реализует паттерн Bridge т.к:
+
+1. Является абстракцией.
+2. Содержит protected поле, которое испольуется в его наследниках
